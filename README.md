@@ -55,7 +55,7 @@ Here are a few backend-heavy projects I’ve built from scratch:
 4. **Slug-Driven SEO Platform** – Unique SEO-friendly URLs with collision handling and migrations.
 5. **Notification Service** – Email, in-app notifications, and webhook-driven alerts.
 
-_More projects can be found in my [repositories](https://github.com/qayyum-ibrahim)._
+_More projects can be found in my [repositories](https://github.com/qayyum-ibrahim?tab=repositories)._
 
 ---
 
