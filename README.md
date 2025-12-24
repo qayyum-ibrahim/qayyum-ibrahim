@@ -21,15 +21,33 @@ From **API design to database optimization, caching, and transaction-safe system
 
 ---
 
-## ⚡ GitHub Stats
+## ⚡ GitHub Skills & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qayyum-ibrahim&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qayyum-ibrahim&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+---
+
+## 🚀 Featured Projects
+
+### Univibe - Event Ticketing Platform
+[Live Demo](https://www.univibe.ng)  
+
+![Univibe Demo GIF](https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif) <!-- Replace with real GIF of your project -->
+
+**Highlights:**
+- Scalable backend with Node.js, Express, MongoDB, Redis  
+- Admin dashboards & ticket management in React + TypeScript  
+- Secure payment and payout system with transaction safety  
+- SEO-friendly slug system and optimized API performance  
 
 ---
 
