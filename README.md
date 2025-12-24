@@ -24,11 +24,11 @@ From **API design to database optimization, caching, and transaction-safe system
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qayyum-ibrahim&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qayyum-ibrahim&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ _More projects can be found in my [repositories](https://github.com/qayyum-ibrah
 ## 📫 Connect with Me
 
 - LinkedIn: [linkedin.com/in/qayyum-ibrahim](https://linkedin.com/in/qayyum-ibrahim)
-- Portfolio: [your-portfolio-link.com](https://https://qayyum-ibrahim.vercel.app/)
+- Portfolio: [qayyum-ibrahim.vercel.app](https://https://qayyum-ibrahim.vercel.app/)
 - Email: [qayyum@example.com](mailto:qayyumibrahim.01@gmail.com)
 
 ---
